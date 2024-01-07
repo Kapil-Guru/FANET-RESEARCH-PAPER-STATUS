@@ -1,6 +1,6 @@
 # FANET-RESEARCH-PAPER-STATUS
 
-# Title: "A Priority Aware Local Mutual Exclusion Algorithm for Flying Ad Hoc Networks"
+# Title: A Priority Aware Local Mutual Exclusion Algorithm for Flying Ad Hoc Networks
 
 Authors: Kapilesh Guruprasad (first author), Dhanush Sridhar, Gokula Kannan V P, Mary Anita Rajam V
 
